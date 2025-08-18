@@ -1,0 +1,5 @@
+tuple1=tuple(map(int,input("Enter numbers to the list: ").split()))
+print("The size of  the tuple is : ",len(tuple1))
+print("og_tuple:" ,tuple1)
+size=len(tuple1)
+print("Size of the tuple: ",size)
